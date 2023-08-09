@@ -1,0 +1,11 @@
+Задание 2
+
+Массив нигде не определен.
+
+Добавить еще один catch ArrayIndexOutOfBoundsException.
+И проинициализировать массив.
+
+Задание 3
+Добавить деление на ноль, Throwable ex убрать в конец, из метода printSum убрать throws FileNotFoundException
+
+
